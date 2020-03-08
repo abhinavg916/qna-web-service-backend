@@ -3,10 +3,6 @@ package com.upgrad.quora.service.exception;
 import java.io.PrintStream;
 import java.io.PrintWriter;
 
-/**
- * AuthenticationFailedException is thrown in case of authentication failure.
- *
- */
 public class AuthenticationFailedException extends Exception {
     private final String code;
     private final String errorMessage;
