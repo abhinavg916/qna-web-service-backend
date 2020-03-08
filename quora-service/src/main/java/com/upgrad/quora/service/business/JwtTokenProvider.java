@@ -39,6 +39,7 @@ public class JwtTokenProvider {
      * @param issuedDateTime  - current time
      * @param expiresDateTime - expiry time of the JWT token
      * @return - generated JWT token
+     * 
      */
     public String generateToken(final String userUuid, final ZonedDateTime issuedDateTime, final ZonedDateTime expiresDateTime) {
 
