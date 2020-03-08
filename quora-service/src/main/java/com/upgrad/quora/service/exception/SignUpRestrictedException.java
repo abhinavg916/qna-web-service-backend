@@ -3,9 +3,6 @@ package com.upgrad.quora.service.exception;
 import java.io.PrintStream;
 import java.io.PrintWriter;
 
-/**
- * SignUpRestrictedException is thrown when a user is restricted to register in the application due to repeated username or email.
- */
 public class SignUpRestrictedException extends Exception {
     private final String code;
     private final String errorMessage;

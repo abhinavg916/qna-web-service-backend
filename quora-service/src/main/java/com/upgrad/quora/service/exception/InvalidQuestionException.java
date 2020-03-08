@@ -3,9 +3,7 @@ package com.upgrad.quora.service.exception;
 import java.io.PrintStream;
 import java.io.PrintWriter;
 
-/**
- * InvalidQuestionException is thrown when the question is not found in the database.
- */
+
 public class InvalidQuestionException extends Exception {
     private final String code;
     private final String errorMessage;
