@@ -1,3 +1,8 @@
+/*   
+    Answer not found Exception is thrown 
+    when no answer is present in the database
+
+*/
 package com.upgrad.quora.service.exception;
 
 import java.io.PrintStream;
