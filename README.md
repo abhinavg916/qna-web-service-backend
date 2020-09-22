@@ -1,4 +1,4 @@
-# Q&A Web Service Website (Quora's) Backend
+# Q&A Web Service Backend
 
 ## Author
 * Name - Abhinav
