@@ -1,5 +1,5 @@
-# QnA Web Service-backend
-- Website (similar to Quora) to question and answer on posts asked by users on the platform
+# QnA Web Service - backend
+- Backend of a website (similar to Quora) to question and answer on posts asked by users on the platform
 
 ## Tech Used
 
